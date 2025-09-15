@@ -37,7 +37,7 @@ The simulation consistently demonstrates the superiority of recursive intelligen
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/IQ-vs-Recursion.git
+git clone https://github.com/Maxbanker/IQ-vs-Recursion.git
 cd IQ-vs-Recursion
 ```
 
