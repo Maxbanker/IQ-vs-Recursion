@@ -69,8 +69,7 @@ Runs statistical analysis on 100+ agents, outputs significance tests, and genera
 
 ```
 .
-├── recursion_vs_iq.py              # Main simulation (single-agent comparison)
-├── recursion_vs_iq_population.py   # Population-level statistical analysis
+├── IQvrecursion.py              # Population-level statistical analysis
 ├── requirements.txt                # Python dependencies
 └── README.md                       # This file
 ```
