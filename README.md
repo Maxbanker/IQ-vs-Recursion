@@ -52,7 +52,7 @@ pip install numpy matplotlib scipy
 ### 3. Run the Core Simulation
 
 ```bash
-python recursion_vs_iq.py
+python IQvRecursion.py
 ```
 
 Outputs results to console and generates `recursion_vs_iq_simulation.png`.
@@ -60,7 +60,7 @@ Outputs results to console and generates `recursion_vs_iq_simulation.png`.
 ### 4. (Optional) Run Population Study
 
 ```bash
-python recursion_vs_iq_population.py
+python IQvRecursion.py
 ```
 
 Runs statistical analysis on 100+ agents, outputs significance tests, and generates `population_results.png`.
@@ -69,7 +69,7 @@ Runs statistical analysis on 100+ agents, outputs significance tests, and genera
 
 ```
 .
-├── IQvrecursion.py              # Population-level statistical analysis
+├── IQvrecursion.py                 # Population-level statistical analysis
 ├── requirements.txt                # Python dependencies
 └── README.md                       # This file
 ```
